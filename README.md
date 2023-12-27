@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **vue**
 
-- 📫 How to reach me **sowmisundaram23501@gmail.com**
+- 📫 How to reach me **sowmisundaram235@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
